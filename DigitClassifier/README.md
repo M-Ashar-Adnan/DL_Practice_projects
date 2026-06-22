@@ -10,7 +10,7 @@ The project defines, trains, and evaluates a Multilayer Perceptron (MLP) neural 
 
 Here is a snapshot of the model's predictions on the test dataset:
 
-![Model Predictions](DigitClassifier/predictions.png)
+![Model Predictions](predictions.png)
 
 ---
 
